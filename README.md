@@ -15,6 +15,8 @@ Telegram                           @suptelov
 3. TestContainers
 4. Docker
 5. Junit
+6. SQL 
+
 
 Обзор проектов:
 
