@@ -8,7 +8,7 @@
 Telegram                           @suptelov
 -------------------     ----------------------------
 
-Имею опыт работы со следующими списком технологий
+Имею опыт работы со следующим списком технологий
 --------------------------------
 1. Java Core/Collection/Concurrency
 2. Spring: Boot, Data JPA, Security, AOP, Apache Kafka
