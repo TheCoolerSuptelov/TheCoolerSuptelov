@@ -2,7 +2,7 @@
 
 Кирилл Суптелов
 ============
-Ключевая комтенция Java backend
+Ключевая компетенция Java backend
 -------------------     ----------------------------
 Как со мной связаться:
 Telegram                           @suptelov
@@ -22,5 +22,5 @@ Telegram                           @suptelov
 
 * Architectural Katas by Neal Ford Am.I.Sck: https://github.com/TheCoolerSuptelov/Am.I.Sck
 * Простенький REST API для работы с данными студентов: https://github.com/TheCoolerSuptelov/springBootDataRestOpenAPI
-
-
+* "Клон" Redis написанный на Java https://github.com/TheCoolerSuptelov/RedisLikeAppTask
+* Бэкэнд чата https://github.com/TheCoolerSuptelov/msg-backend-code
