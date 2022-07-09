@@ -24,3 +24,7 @@ Telegram                           @suptelov
 * Простенький REST API для работы с данными студентов: https://github.com/TheCoolerSuptelov/springBootDataRestOpenAPI
 * "Клон" Redis написанный на Java https://github.com/TheCoolerSuptelov/RedisLikeAppTask
 * Бэкэнд чата https://github.com/TheCoolerSuptelov/msg-backend-code
+* Spring Cloud Config + Some services: 
+Actual service: https://github.com/TheCoolerSuptelov/limit-service
+Cloud config repo: https://github.com/TheCoolerSuptelov/limits-service
+Clong config server: https://github.com/TheCoolerSuptelov/limit-service-configServer
