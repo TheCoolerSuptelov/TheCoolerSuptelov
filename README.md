@@ -25,6 +25,7 @@ Telegram                           @suptelov
 * "Клон" Redis написанный на Java https://github.com/TheCoolerSuptelov/RedisLikeAppTask
 * Бэкэнд чата https://github.com/TheCoolerSuptelov/msg-backend-code
 * Spring Cloud Config + Some services: 
-  1. Actual service: https://github.com/TheCoolerSuptelov/limit-service  
+  1. Currency exchange service: https://github.com/TheCoolerSuptelov/limit-service  
   2. Cloud config repo: https://github.com/TheCoolerSuptelov/limits-service  
   3. Cloud config server: https://github.com/TheCoolerSuptelov/limit-service-configServer  
+  4. Currency convertion service: https://github.com/TheCoolerSuptelov/currency-convertion-service
