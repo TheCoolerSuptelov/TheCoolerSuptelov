@@ -11,7 +11,7 @@ Telegram                           @suptelov
 Имею опыт работы со следующим списком технологий
 --------------------------------
 1. Java Core/Collection/Concurrency
-2. Spring: Boot, Data JPA, Security, AOP, Apache Kafka
+2. Spring: Boot, Data JPA, Security, AOP, Apache Kafka, Cloud
 3. TestContainers
 4. Docker
 5. Junit
